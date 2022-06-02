@@ -12,6 +12,8 @@ Para el Landing Page, al igual que en el mockup del Layout Hi-Fi, queríamos alg
 
 Con este mockup terminamos de definir como queremos que sea la web, como hemos dicho antes, especialmente dirigida a dispositivos móviles, ya que los usuarios más probables(jóvenes, estudiantes) los usan para reservar y buscar mucho más. Basamos nuestro diseño en la web original del restaurante-garito pero añadiendo las mejoras que expusimos en la práctica anterior, como un mejor menú de navegación, menos sobrecarga de fotos y vídeos y una parte de reservas propia, acorde al resto de la web.
 
+https://cloud.protopie.io/p/b7fe074811
+
 ## Documentación: Publicación del Case Study
 Se ha publicado el caso en esta propia página
 
